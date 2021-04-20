@@ -2,8 +2,6 @@ package main.java.com.casper91044.javacore.chapter03;
 
 // Приведение типов
 
-import java.sql.SQLOutput;
-
 public class Conversion {
     public static void main(String[] args) {
         byte b;
